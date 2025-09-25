@@ -4,6 +4,7 @@ on:
   push:
     branches: ["main"]
 
+    
 # Sets the GITHUB_TOKEN permissions for GitHub Pages
 permissions:
   contents: read
